@@ -1,16 +1,9 @@
 # my_coffee
 
 A new Flutter project.
+My Coffee App is a simple Flutter application that displays a coffee-themed image. This app serves as a basic example of how to use Flutter’s MaterialApp and Scaffold widgets to create a user interface with an app bar and a centered image.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features
+App Bar: A customizable app bar with a centered title and a specific background color.
+Image Display: Displays an image of coffee at the center of the screen.
+No Debug Banner: The debug banner is disabled for a cleaner look.
